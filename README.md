@@ -13,7 +13,7 @@ The purpose of this case study was to determine if social media usage at an earl
 Fig. 3 - “Meaningful Discussion” Score Per Generation
 
 <p align="center" width="100%">
-  <img src="https://github.com/shouldworkright/svhn-cnn/blob/main/docs/assets/fig_9.jpg?raw=true">
+  <img src="https://github.com/shouldworkright/gen-case-study/tree/master/docs/assets/fig_3.jpg">
 </p>
 
 ...
@@ -21,7 +21,7 @@ Fig. 3 - “Meaningful Discussion” Score Per Generation
 Fig. 5 - “Idiom Comprehension” Responses Per Generation
 
 <p align="center" width="100%">
-  <img src="https://github.com/shouldworkright/svhn-cnn/blob/main/docs/assets/fig_9.jpg?raw=true">
+  <img src="https://github.com/shouldworkright/gen-case-study/tree/master/docs/assets/fig_5.jpg">
 </p>
 
 ...
@@ -29,7 +29,7 @@ Fig. 5 - “Idiom Comprehension” Responses Per Generation
 Fig. 7 - % of Max Score Achieved per Generation (Physical Social Skills)
 
 <p align="center" width="100%">
-  <img src="https://github.com/shouldworkright/svhn-cnn/blob/main/docs/assets/Figure_8.jpg?raw=true">
+  <img src="https://github.com/shouldworkright/gen-case-study/tree/master/docs/assets/fig_7.jpg">
 </p>
 
 
