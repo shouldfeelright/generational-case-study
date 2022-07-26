@@ -1,4 +1,4 @@
-# Intergenerational Social Skills and Social Media Usage Case Study
+# Intergenerational Social Skills and Social Media Usage
 
 This repository houses survey data and Python scripts related to a case study performed as part of UMass Dartmouth's CIS362 Empirical Methods course. The purpose of the case study was to gauge the impact that social media use at an early age has on the formation of an individual's social skills. This README contains selections of information from the research paper written as part of this project. The full paper can be accessed under <a href="https://github.com/shouldworkright/gen-case-study/blob/master/docs/Intergenerational%20Social%20Skills%20and%20Social%20Media%20Usage%20(Report).pdf">docs/Intergenerational Social Skills and Social Media Usage (Report).pdf</a>.
 
